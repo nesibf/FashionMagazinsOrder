@@ -10,10 +10,6 @@ The code in this repo meant to be a reference point for anyone following along w
 
 **Note** - one of the dependencies is currently not working with Node.js 10.3, please use [version 9.11.1](https://nodejs.org/download/release/v9.11.1/) (or around that, 8.x and 9.x should work fine) until then. 
 
-`cd` into `catch-of-the-day` and follow along with the videos
-
-Each numbered folder in `stepped-solutions` contains the files for the beginning of each correspondingly numbered video, should you need them. So, if you need any code, pull the appropriate file into your `catch-of-the-day` folder.
-
 You are welcome to submit Pull Requests but I'd like to keep the code as similar as possible to the course content.
 
 ### Code Use
