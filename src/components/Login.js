@@ -11,7 +11,7 @@ const Login = (props) => (
         >
             Log In With Github
         </button>
-        <button
+        {/* <button
             className="facebook"
             onClick={() => props.authenticate("Facebook")}
         >
@@ -22,7 +22,7 @@ const Login = (props) => (
             onClick={() => props.authenticate("Gooogle")}
         >
             Log In With Google
-        </button>
+        </button> */}
     </nav>
 );
 
