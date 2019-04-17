@@ -1,6 +1,6 @@
 // This is just some sample data so you don't have to think of your own!
 const fishes = {
-  fish1: {
+  fish5: {
     name: "Cosmoplitan",
     image: "/images/cosmopolitan.jpg",
     desc:
@@ -9,7 +9,7 @@ const fishes = {
     status: "available"
   },
 
-  fish2: {
+  fish4: {
     name: "Al Jamila",
     image: "/images/aljamila.jpg",
     desc:
@@ -27,7 +27,7 @@ const fishes = {
     status: "unavailable"
   },
 
-  fish4: {
+  fish2: {
     name: "Sayidaty",
     image: "/images/sayidaty.jpg",
     desc:

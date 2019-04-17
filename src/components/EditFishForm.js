@@ -46,7 +46,7 @@ class EditFishForm extends React.Component {
                 onChange={this.handleChange}
                 value={this.props.fish.status}
             >
-                <option value="available">Fresh!</option>
+                <option value="available">New!</option>
                 <option value="unavailable">Sold Out!</option>
             </select>
             <textarea
@@ -61,7 +61,7 @@ class EditFishForm extends React.Component {
                 value={this.props.fish.image}
             />
             <button onClick={() => this.props.deleteFish(this.props.index)}>
-                Remove Fish
+                Remove Magazine
             </button>
         </div>
     )}
