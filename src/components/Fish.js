@@ -29,7 +29,7 @@ class Fish extends React.Component {
                 </h3>
                 <p>{desc}</p>
                 <button disabled={!isAvailable} onClick={this.handleClick}>
-                    {isAvailable ? 'Add To Order' : 'Sold Out!'}
+                    {isAvailable ? 'Order it!' : 'Sold Out!'}
                 </button>
             </li>
         );
